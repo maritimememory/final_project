@@ -1,0 +1,47 @@
+body{background-color: #F1FBFB;}
+
+cheerup{
+border-radius:50%;
+ align: center; 
+}
+html{
+  color:#9665ed}
+  
+button {
+    background-color: #9665ed;
+    border: none;
+    color: white;
+    padding: 20px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+}
+
+html{color: #9665ed}
+body{font-family: 'Lucida Grande', sans-serif;}
+body{
+  background-color: #dedede;
+}
+.gallery{
+  display: flex;
+  width: 900px;
+  margin: auto;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+figure{
+  width: 200px;
+  margin: 8px 0;
+  border: 1px solid #777;
+  padding: 8px;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+figure img{
+  width: 100%;
+}
+figure figcaption{
+  text-align: center;
+  padding: 8px 4px;
+}
